@@ -1,0 +1,12 @@
+﻿  interview_question1.cpp
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(53,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(54,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(72,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(83,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(84,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(126,7): warning C4101: 'hex_digit': unreferenced local variable
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(125,6): warning C4101: 'i': unreferenced local variable
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(159,6): warning C4101: 'place_a_space': unreferenced local variable
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(208,65): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\eric\source\repos\interview_question1\interview_question1.cpp(46): warning C4715: 'ConvertToMatrix::accessMatrix': not all control paths return a value
+  interview_question1.vcxproj -> C:\Users\eric\source\repos\interview_question1\Debug\interview_question1.exe
